@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/hljpanda/openwrt-gl-ax1800
+  REPO_URL: https://github.com/qy116427/openwrt-official
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
